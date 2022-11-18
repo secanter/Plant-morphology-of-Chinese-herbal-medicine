@@ -14,25 +14,25 @@ DataSet_after_strengthen is an enhanced data set with 12 volumes.
 
 # Folder structure
 
-|--./DataSet
-   |--Xanthum mongolicum kitag
-   |--Viola philippica Car
-   |--Semen Ginkgo
-   |--Schisandra chinensis-(Turcz.)Baill
-   |--Rhizoma Curcumae
-   |--Radix Platycodonis
-   |--Plantagodepressa Willd
-   |--Lysimachia christinae Hance
-   |--Leonurush-eterophyllu-sSweet
-   |--Houttuynia cordata Thunb
-   |--Herba Menthae Haplocalycis
-   |--Herba Chelidonii
-   |--FRUCTUS LYCII
-   |--FRUCTUS HIPPOPHAE
-   |--Crocus sativus
-   |--Benzoinum Styracis
-   |--Artemisia annua L
-   |--Agrimonia pilosa Ledeb
+|--./DataSet</br>
+   |--Xanthum mongolicum kitag</br>
+   |--Viola philippica Car</br>
+   |--Semen Ginkgo</br>
+   |--Schisandra chinensis-(Turcz.)Baill</br>
+   |--Rhizoma Curcumae</br>
+   |--Radix Platycodonis</br>
+   |--Plantagodepressa Willd</br>
+   |--Lysimachia christinae Hance</br>
+   |--Leonurush-eterophyllu-sSweet</br>
+   |--Houttuynia cordata Thunb</br>
+   |--Herba Menthae Haplocalycis</br>
+   |--Herba Chelidonii</br>
+   |--FRUCTUS LYCII</br>
+   |--FRUCTUS HIPPOPHAE</br>
+   |--Crocus sativus</br>
+   |--Benzoinum Styracis</br>
+   |--Artemisia annua L</br>
+   |--Agrimonia pilosa Ledeb</br>
 
 
 
