@@ -15,7 +15,7 @@ DataSet_after_strengthen is an enhanced data set with 12 volumes.
 # Folder structure
 
 |--./DataSet</br>
-$\$   |--Xanthum mongolicum kitag</br>
+&nbsp;   |--Xanthum mongolicum kitag</br>
 \   |--Viola philippica Car</br>
 \   |--Semen Ginkgo</br>
 \   |--Schisandra chinensis-(Turcz.)Baill</br>
