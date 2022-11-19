@@ -6,6 +6,10 @@
 
 ​		we collected the images of Chinese herbal medicines in their natural growing state and constructed a dataset for Chinese herbal medicine classification named Plant Morphology of Chinese Herbal Medicine Dataset. The Plant Morphology of Chinese Herbal Medicine Dataset contains 18 classes of Chinese herbal medicine.
 
+# address of Model code 
+
+[secanter/Classification-models-of-Chinese-herbal-medicine (github.com)](https://github.com/secanter/Classification-models-of-Chinese-herbal-medicine)
+
 # Use data set
 
 DataSet_before_strengthen is the data set before enhancement, and has two volumes.
